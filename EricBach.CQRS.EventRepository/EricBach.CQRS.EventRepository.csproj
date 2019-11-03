@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Description>EricBach.CQRS.EventRepository is a microservices CQRS framework</Description>
+    <PackageProjectUrl>https://github.com/eric-bach/EricBach.CQRS.EventRepository</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/eric-bach/EricBach.CQRS.EventRepository</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <!-- <VersionPrefix>1.0.7</VersionPrefix>
+    <VersionSuffix>beta</VersionSuffix> -->
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="EricBach.CQRS" Version="1.0.6" />
+  </ItemGroup>
+
+</Project>

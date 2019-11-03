@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EricBach.CQRS.EventRepository", "EricBach.CQRS.EventRepository\EricBach.CQRS.EventRepository.csproj", "{CD613B81-6800-4B7D-B112-1623D0454A9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD613B81-6800-4B7D-B112-1623D0454A9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD613B81-6800-4B7D-B112-1623D0454A9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD613B81-6800-4B7D-B112-1623D0454A9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD613B81-6800-4B7D-B112-1623D0454A9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C1529F81-CAB5-4E93-B953-3B653863D8E1}
+	EndGlobalSection
+EndGlobal
